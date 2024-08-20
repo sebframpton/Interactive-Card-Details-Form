@@ -45,8 +45,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/sebframpton/Interactive-Card-Details-Form)
-- Live Site URL: [Add live site URL here](https://sebframpton.github.io/Interactive-Card-Details-Form/)
+- Solution URL: [https://github.com/sebframpton/Interactive-Card-Details-Form](https://github.com/sebframpton/Interactive-Card-Details-Form)
+- Live Site URL: [https://sebframpton.github.io/Interactive-Card-Details-Form/](https://sebframpton.github.io/Interactive-Card-Details-Form/)
 
 ## My process
 
